@@ -1,3 +1,11 @@
+@charset "UTF8";
+@font-face{
+   font-family: Nobile;
+   src: url('nobile-webfont.woff') format("woff")
+        url('nobile-webfont.tff') format('tff');
+}
+
+
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 2
@@ -22,7 +30,7 @@
 
 
 /* Blockquote Styles */
-
+''
 
 
 
