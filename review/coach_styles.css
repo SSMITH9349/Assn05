@@ -31,6 +31,14 @@ body{
    background-color: Ivory;
    font-family: Verdana, Geneva, sans-serif;
 }
+body> footer address {
+   background-color: hsl(27,72%, 72%);
+   color: white;
+   color: rgba(225,225,225,0.6);
+   font: normal small-caps bold 0.9em/3em Nobile, Verdana, Geneva, Sans-serif;
+   text-align: center;
+
+}
 
 
 
