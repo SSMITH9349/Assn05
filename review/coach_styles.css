@@ -31,7 +31,8 @@ body{
    background-color: Ivory;
    font-family: Verdana, Geneva, sans-serif;
 }
-body> footer address {
+
+body > footer address {
    background-color: hsl(27,72%, 72%);
    color: white;
    color: rgba(225,225,225,0.6);
@@ -44,10 +45,12 @@ body> footer address {
 
 /* Heading Styles */
 
-
-
+h1{
+   font: normal 0.2em Nobile, Verdana, Geneva, sans-serif;
+   margin: 0px;
+}
 /* Blockquote Styles */
-''
+
 
 
 
