@@ -49,7 +49,7 @@ article#about_tss h1{
 }
 article#about_tss h2{
     color:white;
-    background-color: rg(235,177,131);
+    background-color: rgb(235,177,131);
 }
 
 article.syllabus h1, article.syllabus h2 {
